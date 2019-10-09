@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570197463743.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7C4D42C",
+    "lastKnownWriteTime" : 1570462978,
+    "last_content_update" : 1570462978982,
+    "path" : "~/Desktop/Ubiqum/NewRProject/Untitled.R",
+    "project_path" : "Untitled.R",
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
